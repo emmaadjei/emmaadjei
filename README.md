@@ -1,11 +1,9 @@
 
-![Emmanuel Adjei (1)](https://github.com/user-attachments/assets/c112496f-1588-4105-a711-eaf36c42d760)
 
-# 💫 About Me:
-### Hello World!, I'm Manuel - a passionate data analyst.
+![Emmanuel Adjei (2)](https://github.com/user-attachments/assets/e18952f8-11bd-49b6-98d9-1e065a1856be)
 
 
-## 🌐 Socials:
+## 🌐 Social Media Handles:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Emmanuel Adjei) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Emmanuel Adjei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Emmanuel Adjei) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Emmanuel Adjei) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adjeiemmanuel9999@gmail.com) 
 
 # 💻 Tech Stack:
@@ -19,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=emmaadjei&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=emmaadjei&limit=5&theme=aura&combine_all_yearly_contributions=true)
