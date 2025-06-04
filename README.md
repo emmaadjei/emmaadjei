@@ -1,5 +1,8 @@
+
+![Emmanuel Adjei (1)](https://github.com/user-attachments/assets/c112496f-1588-4105-a711-eaf36c42d760)
+
 # 💫 About Me:
-Hi, I'm Manuel.<br>A passionate data analyst.<br><br>
+### Hello World!, I'm Manuel - a passionate data analyst.
 
 
 ## 🌐 Socials:
